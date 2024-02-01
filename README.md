@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dark77888
+- 👋 Hi, I’m @RitikKhandelwal1008
 - 👀 I’m interested in Creating and Solving Problems
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on Full Stack Projects
